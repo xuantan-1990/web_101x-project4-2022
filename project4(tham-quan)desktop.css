@@ -1,0 +1,251 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+@media only screen and (min-width: 992px) {
+
+    /* For desktop: */
+    .col-1 {
+        width: 8.33%;
+    }
+
+    .col-2 {
+        width: 16.66%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.33%;
+    }
+
+    .col-5 {
+        width: 41.66%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-7 {
+        width: 58.33%;
+    }
+
+    .col-8 {
+        width: 66.66%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.33%;
+    }
+
+    .col-11 {
+        width: 91.66%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 992px) {
+body{background-color: beige ;}
+.trang-chu {
+    padding-left: 42%;
+    padding-right: 42%;
+   
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;
+}
+.buu-dien {
+    padding-left: 39%;
+    padding-right: 39%;
+    background-color: rgb(181, 236, 188);
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;
+}
+.cho-ben-thanh {
+    padding-left: 40%;
+    padding-right: 40%;
+    background-color: rgb(181, 236, 188);
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;
+}
+.dinh-doc-lap {
+    padding-left: 42%;
+    padding-right: 42%;
+    background-color: rgb(181, 236, 188);
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;
+}
+.nha-tho-duc-ba {
+    padding-left: 41.5%;
+    padding-right: 41.5%;
+    background-color: rgb(181, 236, 188);
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;
+}
+.thao-cam-vien {
+    padding-left: 41.5%;
+    padding-right: 41.5%;
+    background-color: rgb(181, 236, 188);
+    background-clip: content-box;
+    margin: 0px auto 0 auto;
+    text-align: center;
+    color: blue;}
+.col-2 h3 {
+    background-color: bisque;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    clear: both;
+}
+.TC {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+
+}
+.KS {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+
+}
+
+.KM {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.TQ {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box;
+    
+}
+
+.GT {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.AT {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.TK {
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: auto;
+
+}
+
+.tieu-de {
+   
+    clear: both;
+    background-size: 90%;
+    text-align: center;
+    background-position-x: center;
+    color:black;
+   
+    
+    background-repeat: no-repeat;
+    font-size: 30px;
+  
+}
+
+
+
+#tin-chinh {
+    
+    
+    width: 80%;
+    float: left;
+    padding-left: 20%;
+    padding-top: 30px;margin-right: 20%;
+}
+
+#tin-chinh img {
+    width: 100%;
+}
+
+#tin-chinh p {
+    padding-right: 1%;
+    font-size: 20px;
+}
+
+
+.BT {
+    border-right: #000 solid 1px;
+    padding-right: 2%;
+}
+li{font-size: 25px;font-weight: bold;}
+
+table, th, td {  font-size: 20px;
+    border: 1px solid red;
+    border-collapse: collapse;}
+
+
+
+#footer {
+    background-color: aqua;
+    clear: both;
+    height: 390px;
+    
+}
+#footer li {font-weight: normal;}
+ul {
+    list-style-type: none;
+}
+
+.thong-tin {
+    float: left;
+    font-size: 25px;
+    margin-left: 23%;
+    padding-right: 10%;
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.lien-he {
+    
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+}
